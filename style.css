@@ -1,0 +1,63 @@
+body {
+  background: grey; 
+  color: #fff; 
+  padding: 25px;
+  font-family: times-new-roman;
+}
+h1{ 
+
+  text-align: left;
+  font-size: 45px;
+  color: #0000FF;
+
+}
+
+h2{
+
+
+font-size: 30px;
+
+}
+
+p{
+
+
+padding: 25px;
+font-size: 25px;
+
+}
+
+img {
+
+padding: 25px;
+
+}
+
+body{
+
+background: grey; 
+color:#fff;
+padding: 25px;
+font-family: times-new-roman;
+
+h3 {
+
+font-size:25px;
+
+}
+
+p {
+
+font-weight:normal;
+font-size: 25px;
+
+}
+
+body{
+
+img{
+
+style= "width= 25px;"
+height 50px;
+  
+}
